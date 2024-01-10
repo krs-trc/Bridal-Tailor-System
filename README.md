@@ -15,18 +15,28 @@ Bridal Blossoms Tailor is a program that manages orders for a tailor shop specia
 
 ## Output
 
-Main Menu
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/e21e8de4-8cdd-42fc-b6bb-76abdbe58b43)
+- Main Menu
 
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/3c74aecd-8a55-4f33-9c8d-76b0d485675a)
 
+
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/09feff83-8e73-42e5-8f4e-8ce49e780be7)
+- Create New Order
 
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/8cf0ee70-610e-419e-944b-4ad01099e129)
-
+- Edit Order
+   
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/c5707a5c-c97d-454f-b6c0-bad3b0356ca3)
-
+- Search Finalized Order
+  
 ![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/5d754292-9d64-48ca-94c4-d8a131a8e56d)
+- View All Finalized Order
+  
+![image](https://github.com/krs-trc/Bridal-Tailor-System/assets/154535021/a4c49cf2-e15a-49ba-8e66-8431113a158e)
+- Summary Report
 
+## Problems
+- Interface lack user friendly and might be confusing
 
 
